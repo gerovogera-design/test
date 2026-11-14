@@ -15,7 +15,7 @@ import sys
 import threading
 import time
 import webbrowser
-from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer(("0.0.0.0", port), Handler)
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import urlparse, parse_qs
 
 PORTS = [int(os.environ["PORT"])] if os.environ.get("PORT") else [8080, 8000, 8888, 5000, 8081]
