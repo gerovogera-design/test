@@ -1,0 +1,30 @@
+{
+ "title": "TKO JE NOVI MIŠO?",
+ "performers": [
+  {
+   "id": "30ee4fc5",
+   "name": "ZLATKO",
+   "song": "IMA NAJVEĆEG",
+   "votes": {}
+  },
+  {
+   "id": "44e3c571",
+   "name": "MARIN",
+   "song": "IMA DOBROG",
+   "votes": {}
+  },
+  {
+   "id": "e0976035",
+   "name": "MATEO",
+   "song": "GA NEMA",
+   "votes": {}
+  }
+ ],
+ "phase": "waiting",
+ "reveal": null,
+ "wifi": {
+  "ssid": "Gerovo Centar",
+  "password": "1234567890g",
+  "show": true
+ }
+}
